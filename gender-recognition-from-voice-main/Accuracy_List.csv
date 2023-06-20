@@ -1,0 +1,8 @@
+Algorithm,"Accuracy (considering only IQR, meanfun & Q25)",Accuracy (considering all attributes)
+K-Nearest Neighbours,0.9705573081,0.9779179811
+Naïve Bayes,0.9631966351,0.9001051525
+Decision Tree,0.9716088328,0.9716088328
+Random Forest,0.9737118822,0.9810725552
+XgBoost,0.9726603575,0.985278654
+Support Vector Machine,0.9716088328,0.9810725552
+Neural Network (MLP Classifier),0.9737118822,0.9800210305
